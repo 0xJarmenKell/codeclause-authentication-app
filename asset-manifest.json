@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeclause-authentication-app/static/css/main.949068b1.css",
+    "main.js": "/codeclause-authentication-app/static/js/main.18cc2627.js",
+    "index.html": "/codeclause-authentication-app/index.html",
+    "main.949068b1.css.map": "/codeclause-authentication-app/static/css/main.949068b1.css.map",
+    "main.18cc2627.js.map": "/codeclause-authentication-app/static/js/main.18cc2627.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.949068b1.css",
+    "static/js/main.18cc2627.js"
+  ]
+}
